@@ -53,7 +53,7 @@ moment. Please feel free to contribute to the docs:
 
 1. Include `dist/play-it-in-revealjs.js` in your Reveal presentation
 2. Copy the styles from `examples/reveal.html` or make your own
-3. Add a `data-samElement` and `data-samFile to your slide to point to the element and `.pias` file respectively.
+3. Add a `data-samElement` and `data-samFile` to your slide to point to the element and `.pias` file respectively.
 
 
 Contributing
