@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Untitled</title>
+		<meta name="viewport" content="width=device-width">
+		<script type="text/javascript" src="../index.js"></script>
+		<script type="text/javascript" defer>
+			fetch(window.location.hash.substr(1))
+				.then(body => body.json())
+				.then(data => {
+					window.sam = new PlayItAgainSam({ data, target: document.querySelector('#pias'), typingSpeed: 0.05 });
+				});
+		</script>
+	</head>
+	<body>
+		<div id="pias">
+
+		</div>
+	</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "name": "playitagainsam-js-libre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "beefy index.js",
+    "build-reveal": "rm dist -rf;mkdir dist;browserify play-it-in-revealjs.js > dist/play-it-in-revealjs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "terminal.js": "^1.0.10"
+  },
+  "devDependencies": {
+    "beefy": "^2.1.8",
+    "browserify": "^14.4.0"
+  }
+}

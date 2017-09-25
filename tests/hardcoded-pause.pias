@@ -1,0 +1,1419 @@
+{
+  "events": [
+    {
+      "act": "OPEN",
+      "size": [
+        204,
+        66
+      ],
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "\u001b]777;notify;Command completed;exit\u0007\u001b]0;ash@ash-xps13b:~\u0007\u001b]7;file://ash-xps13b/home/ash\u0007[ash@ash-xps13b ~]$ ",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "ECHO",
+      "data": "cd We",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\t",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "b/",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0044138431549072266
+    },
+    {
+      "act": "WRITE",
+      "data": "\u001b]777;notify;Command completed;cd Web/\u0007\u001b]0;ash@ash-xps13b:~/Web\u0007\u001b]7;file://ash-xps13b/home/ash/Web\u0007[ash@ash-xps13b Web]$ ",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "ECHO",
+      "data": "mkdir temp`12",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\u007f",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "\b\u001b[K",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\u007f",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "\b\u001b[K",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\u007f",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "\b\u001b[K",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "ECHO",
+      "data": "123",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0025680065155029297
+    },
+    {
+      "act": "WRITE",
+      "data": "mkdir: cannot create directory \u2018temp123\u2019: File exists\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.004690885543823242
+    },
+    {
+      "act": "WRITE",
+      "data": "\u001b]777;notify;Command completed;mkdir temp123\u0007\u001b]0;ash@ash-xps13b:~/Web\u0007\u001b]7;file://ash-xps13b/home/ash/Web\u0007[ash@ash-xps13b Web]$ ",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "ECHO",
+      "data": "cd temp",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\t",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "123/",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.004853010177612305
+    },
+    {
+      "act": "WRITE",
+      "data": "\u001b]777;notify;Command completed;cd temp123/\u0007\u001b]0;ash@ash-xps13b:~/Web/temp123\u0007\u001b]7;file://ash-xps13b/home/ash/Web/temp123\u0007[ash@ash-xps13b temp123]$ ",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "ECHO",
+      "data": "ls",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.003887176513671875
+    },
+    {
+      "act": "WRITE",
+      "data": "\u001b[0m\u001b[38;5;33mbuild\u001b[0m  LICENSE  \u001b[38;5;33mnode_modules\u001b[0m  package.json  package-lock.json  \u001b[38;5;33mpublic\u001b[0m  README.md  serve.json  \u001b[38;5;33msrc\u001b[0m\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0008819103240966797
+    },
+    {
+      "act": "WRITE",
+      "data": "\u001b]777;notify;Command completed;ls\u0007\u001b]0;ash@ash-xps13b:~/Web/temp123\u0007\u001b]7;file://ash-xps13b/home/ash/Web/temp123\u0007[ash@ash-xps13b temp123]$ ",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "ECHO",
+      "data": "npm install underscore",
+      "pause": "BOTH",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.6963701248168945
+    },
+    {
+      "act": "WRITE",
+      "data": "\u001b[?25l",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.004564046859741211
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05838799476623535
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05762314796447754
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04540395736694336
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04668712615966797
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.27504897117614746
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.11858487129211426
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.058072805404663086
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.43466901779174805
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04852700233459473
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.055654048919677734
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04732012748718262
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.09353184700012207
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.08424687385559082
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04688692092895508
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.11971306800842285
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04668283462524414
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.2223207950592041
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04817819595336914
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04815101623535156
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04855513572692871
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.047384023666381836
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.048635005950927734
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04654502868652344
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.046569108963012695
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04783320426940918
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.048803091049194336
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.056118011474609375
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] / rollbackFailedOptional: \u001b[34;40mverb\u001b[0m \u001b[35mnpm-session\u001b[0m 7db0aeb5083f464d\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.7794399261474609
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[90m..................\u001b[0m] - loadIdealTree:loadAllDepsIntoIdealTree: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m loadIdealTree\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.7065370082855225
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:vinyl-ftp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05026388168334961
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:trim-right: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05100703239440918
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:path-exists: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.061100006103515625
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:babel-types: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04540514945983887
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:rimraf: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0465700626373291
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:postcss-value-parser: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04713702201843262
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:has-flag: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04722785949707031
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:supports-color: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05118393898010254
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:postcss-selector-parser: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04765582084655762
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:supports-color: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05513191223144531
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:whet.extend: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.047187089920043945
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:universalify: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05901598930358887
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:trim-newlines: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.048844099044799805
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:util-deprecate: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.048185110092163086
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:assert-plus: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04896688461303711
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:is-extendable: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05064201354980469
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:vm-browserify: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05738711357116699
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:minimalistic-crypto-utils: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.054879188537597656
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05660605430603027
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04810500144958496
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.045660972595214844
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04814600944519043
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04615187644958496
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04834794998168945
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04474592208862305
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04717206954956055
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04676485061645508
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04626917839050293
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.046816110610961914
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.044873952865600586
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.049900054931640625
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] | loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.050459861755371094
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] - loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0773172378540039
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] - loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.09190011024475098
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] \\ loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05032706260681152
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] \\ loadDep:readdirp: \u001b[7msill\u001b[0m \u001b[35mresolveWithNewModule\u001b[0m underscore@1.6.0 checking installable status\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0466761589050293
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] \\ loadDep:is-extglob: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0481419563293457
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] \\ loadDep:json-stable-stringify: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04986286163330078
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] \\ loadDep:binary-extensions: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04855203628540039
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] \\ loadDep:yargs: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04935503005981445
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] \\ loadDep:vary: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.050353050231933594
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m   \u001b[27m\u001b[90m...............\u001b[0m] \\ loadDep:wbuf: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.048690080642700195
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ loadDep:umd: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05395102500915527
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m    \u001b[27m\u001b[90m..............\u001b[0m] \\ loadDep:xtend: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04820895195007324
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m      \u001b[27m\u001b[90m............\u001b[0m] \\ loadDep:is-obj: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.049611806869506836
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m      \u001b[27m\u001b[90m............\u001b[0m] \\ loadDep:replace-ext: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.2416369915008545
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m      \u001b[27m\u001b[90m............\u001b[0m] \\ loadExtraneous: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.22866106033325195
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m      \u001b[27m\u001b[90m............\u001b[0m] \\ loadExtraneous: \u001b[7msill\u001b[0m \u001b[35mcleanup\u001b[0m remove extracted module\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.8799281120300293
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m      \u001b[27m\u001b[90m............\u001b[0m] - diffTrees: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m generateActionsToTake\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.10434508323669434
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - diffTrees: \u001b[7msill\u001b[0m \u001b[35minstall\u001b[0m generateActionsToTake\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.059736013412475586
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0473330020904541
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0470280647277832
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04270601272583008
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04423213005065918
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.044859886169433594
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0437929630279541
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04376411437988281
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04348015785217285
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04383206367492676
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04577302932739258
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04311680793762207
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04736614227294922
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.043068885803222656
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04869794845581055
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05039787292480469
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.044877052307128906
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m       \u001b[27m\u001b[90m...........\u001b[0m] - extract:underscore: \u001b[34;40mverb\u001b[0m \u001b[35mlock\u001b[0m using /home/ash/.npm/_locks/staging-79938244c5ed1527.lock for /home/ash/Web/temp123/node_modules/.staging\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.046788930892944336
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04545283317565918
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04855990409851074
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04745793342590332
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.046804189682006836
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04712390899658203
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.048089027404785156
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.048074960708618164
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04831981658935547
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0482330322265625
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04803013801574707
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04784893989562988
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.047698974609375
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m         \u001b[27m\u001b[90m.........\u001b[0m] - extract:underscore: \u001b[7msill\u001b[0m \u001b[35mextract\u001b[0m underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.05504894256591797
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] / finalize:underscore: \u001b[7msill\u001b[0m \u001b[35mdoSerial\u001b[0m finalize 696\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04722404479980469
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] | finalize:dashdash: \u001b[7msill\u001b[0m \u001b[35mfinalize\u001b[0m /home/ash/Web/temp123/node_modules/fsevents/node_modules/dashdash\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04644203186035156
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] \\ finalize:osenv: \u001b[7msill\u001b[0m \u001b[35mfinalize\u001b[0m /home/ash/Web/temp123/node_modules/fsevents/node_modules/osenv\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.051104068756103516
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - finalize:node-pre-gyp: \u001b[7msill\u001b[0m \u001b[35mfinalize\u001b[0m /home/ash/Web/temp123/node_modules/fsevents/node_modules/node-pre-gyp\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04928398132324219
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - refresh-package-json:underscore: \u001b[7msill\u001b[0m \u001b[35mfinalize\u001b[0m /home/ash/Web/temp123/node_modules/underscore\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04611396789550781
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - refresh-package-json:underscore: \u001b[7msill\u001b[0m \u001b[35mfinalize\u001b[0m /home/ash/Web/temp123/node_modules/underscore\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0565340518951416
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] | refresh-package-json:assert-plus: \u001b[7msill\u001b[0m \u001b[35mrefresh-package-json\u001b[0m /home/ash/Web/temp123/node_modules/fsevents/node_modules/nopt\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.07463908195495605
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] / postinstall: \u001b[32minfo\u001b[0m \u001b[35mlifecycle\u001b[0m underscore@1.6.0~postinstall: underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.08695507049560547
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - postinstall: \u001b[32minfo\u001b[0m \u001b[35mlifecycle\u001b[0m underscore@1.6.0~postinstall: underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.24383211135864258
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - postinstall: \u001b[32minfo\u001b[0m \u001b[35mlifecycle\u001b[0m underscore@1.6.0~postinstall: underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.047505855560302734
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - postinstall: \u001b[32minfo\u001b[0m \u001b[35mlifecycle\u001b[0m underscore@1.6.0~postinstall: underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.15706801414489746
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - postinstall: \u001b[32minfo\u001b[0m \u001b[35mlifecycle\u001b[0m underscore@1.6.0~postinstall: underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.06066393852233887
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - postinstall: \u001b[32minfo\u001b[0m \u001b[35mlifecycle\u001b[0m underscore@1.6.0~postinstall: underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.06316900253295898
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - postinstall: \u001b[32minfo\u001b[0m \u001b[35mlifecycle\u001b[0m underscore@1.6.0~postinstall: underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.053301095962524414
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - postinstall: \u001b[32minfo\u001b[0m \u001b[35mlifecycle\u001b[0m underscore@1.6.0~postinstall: underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.7142231464385986
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] \\ postinstall: \u001b[32minfo\u001b[0m \u001b[35mlifecycle\u001b[0m underscore@1.6.0~postinstall: underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.07239198684692383
+    },
+    {
+      "act": "WRITE",
+      "data": "[\u001b[7m            \u001b[27m\u001b[90m......\u001b[0m] - postinstall: \u001b[32minfo\u001b[0m \u001b[35mlifecycle\u001b[0m underscore@1.6.0~postinstall: underscore@1.6.0\u001b[0m\u001b[K\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.018809080123901367
+    },
+    {
+      "act": "WRITE",
+      "data": "\r\u001b[K\u001b[?25h\u001b[37;40mnpm\u001b[0m",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.004400968551635742
+    },
+    {
+      "act": "WRITE",
+      "data": " \u001b[0m\u001b[30;43mWARN\u001b[0m\u001b[35m\u001b[0m ajv-keywords@2.1.0 requires a peer of ajv@>=5.0.0 but none was installed.\r\n\u001b[0m",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.005746126174926758
+    },
+    {
+      "act": "WRITE",
+      "data": "\u001b[37;40mnpm\u001b[0m \u001b[0m\u001b[30;43mWARN\u001b[0m \u001b[0m\u001b[35moptional\u001b[0m SKIPPING OPTIONAL DEPENDENCY: fsevents@1.1.2 (node_modules/fsevents):\r\n\u001b[0m\u001b[37;40mnpm\u001b[0m \u001b[0m\u001b[30;43mWARN\u001b[0m \u001b[0m\u001b[35mnotsup\u001b[0m SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.1.2: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"linux\",\"arch\":\"x64\"})\r\n\u001b[0m\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.001870870590209961
+    },
+    {
+      "act": "WRITE",
+      "data": "+ underscore@1.6.0\r\nadded 114 packages and updated 1 package in 11.361s\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.04199695587158203
+    },
+    {
+      "act": "WRITE",
+      "data": "\u001b]777;notify;Command completed;npm install underscore\u0007\u001b]0;ash@ash-xps13b:~/Web/temp123\u0007\u001b]7;file://ash-xps13b/home/ash/Web/temp123\u0007[ash@ash-xps13b temp123]$ ",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "ECHO",
+      "data": "exit",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "READ",
+      "data": "\r",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "WRITE",
+      "data": "\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "PAUSE",
+      "duration": 0.0014798641204833984
+    },
+    {
+      "act": "WRITE",
+      "data": "exit\r\n",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    },
+    {
+      "act": "CLOSE",
+      "term": "8373ca8568ba4a7690ee765ba8d93247"
+    }
+  ],
+  "shell": "/usr/bin/bash"
+}
