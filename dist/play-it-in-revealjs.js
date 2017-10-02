@@ -10069,7 +10069,6 @@ function hasOwnProperty(obj, prop) {
 
 }).call(this,require('_process'),typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
 },{"./support/isBuffer":55,"_process":12,"inherits":54}],57:[function(require,module,exports){
-console.log('starting pis')
 const PlayItAgainSam = require('./');
 
 let playing;
